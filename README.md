@@ -17,11 +17,13 @@ This work concerns the Non-negative kernel graph construction technique for mult
 ## Dataset:
 This work is compatible with any multi-channel EEG datasets. Some of the public datasets that are explored in this study :
 1. IID vs TDV in MUSIC/REST states:
+   
    https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7163311/
    
    Sareen E, Singh L, Varkey B, Achary K, Gupta A. EEG dataset of individuals with intellectual and developmental disorder and healthy controls under rest and music stimuli. Data Brief. 2020 Apr 7;30:105488. doi: 10.1016/j.dib.2020.105488. PMID: 32322626; PMCID: PMC7163311.
    
 3. Neonatal Seizure:
+   
    https://www.nature.com/articles/sdata201939
    
    Stevenson, N., Tapani, K., Lauronen, L. et al. A dataset of neonatal EEG recordings with seizure annotations. Sci Data 6, 190039 (2019). https://doi.org/10.1038/sdata.2019.39
