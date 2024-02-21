@@ -1,6 +1,7 @@
 # EEG_NNK_GRAPH_CONSTRUCTION
 NNK Graph Construction for EEG Signals
 
+
 ## Paper:
 https://ieeexplore-ieee-org.libproxy1.usc.edu/document/9909594
 E. Bozkurt and A. Ortega, "Non-Negative Kernel Graphs for Time-Varying Signals Using Visibility Graphs," 2022 30th European Signal Processing Conference (EUSIPCO), Belgrade, Serbia, 2022, pp. 1781-1785, doi: 10.23919/EUSIPCO55093.2022.9909594
