@@ -1,8 +1,6 @@
 # NNK GRAPH CONSTRUCTION FOR MULTI-CHANNEL EEG SIGNALS
 NNK Graph Construction for EEG Signals
-![alt text]([](https://github.com/ecembozkurt/EEG_NNK_GRAPH_CONSTRUCTION/toysignal_simpleflow.png)
-
-
+![alt text](https://github.com/ecembozkurt/EEG_NNK_GRAPH_CONSTRUCTION/toysignal_simpleflow.png)
 ## Paper:
 https://ieeexplore-ieee-org.libproxy1.usc.edu/document/9909594
 
